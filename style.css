@@ -397,6 +397,7 @@ section{
     font-size: 1.3rem;
     padding: 1rem 0;
     color: #666;
+    line-height: 1.5;
 }
 
 .pricing .box-container .box .choice{
@@ -670,7 +671,7 @@ section{
 
 @media(max-width: 450px){
     html{
-        font-size: 59%;
+        font-size: 60%;
     }
 
     
